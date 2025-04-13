@@ -2,14 +2,12 @@
 
 This repo shows how to set up **Conventional Commits** in your project using `Husky` and `Commitlint` 🚀.
 
-> Made with ❤️ by [@NyFco](https://github.com/NyFco)
-
 ---
 
 ## 📦 1. Install Dev Dependencies
 
 ```bash
-pnpm add --save-dev husky @commitlint/{config-conventional,cli}
+npm install --save-dev husky @commitlint/{config-conventional,cli}
 ```
 
 ## 🛠 2. Set up Commitlint
